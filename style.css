@@ -280,8 +280,8 @@ input {
 
 /* Footer */
 footer {
-  text-align: center;
-  padding: 4rem 0 2rem;
+  text-align: center; 
+  padding: 5rem 0 5rem;
   color: var(--dark-blue);
 
   opacity: 0.6;
